@@ -35,6 +35,7 @@ h3 {
 }
 
 .card {
+  max-width: 17%;
   align-content: center;
   align-items: center;
   background-color: white;
