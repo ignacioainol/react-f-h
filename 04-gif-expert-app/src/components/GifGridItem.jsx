@@ -1,8 +1,5 @@
 
-
-export const GifGridItem = ({title, url}) => {
-
-  console.log(title, url)
+export const GifGridItem = ({ title, url }) => {
 
   return (
     <div className="card">
